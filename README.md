@@ -1,6 +1,6 @@
 # Brain-Tumor-Detection
 
-The notebook contains the steps required to build and train CNN learning model for the detection of brain tumors in magnetic resonance imaging (MRI) scans. The model is built using the Keras library with a TensorFlow backend and trained on a dataset of labeled brain MRI images.
+The notebook contains the steps required to build and train a CNN learning model for the detection of brain tumors in magnetic resonance imaging (MRI) scans. The model is built using the Keras library with a TensorFlow backend and trained on a dataset of labeled brain MRI images.
 
 ### Technologies and Methods  
 - CNN
